@@ -1,4 +1,4 @@
-# Data_Analyst_NanoDegree
+# Data Analyst NanoDegree
 Udacity - Data Analyst - Data Analysis with Python and SQL 
 
 ### These are my submissions to the data analyst nano-degree program by Udacity
