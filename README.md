@@ -3,7 +3,7 @@ Udacity - Data Analyst - Data Analysis with Python and SQL
 
 ### These are my submissions to the data analyst nano-degree program by Udacity
 
-The submission folders contains:
+The submission folders contain:
 
 1.  [Project 1 - Explore Weather Trends](https://github.com/AmerJadid/Data_Analyst_NanoDegree/blob/master/Project_1_Exploring_Weather_Trends/Explore%20Weather%20Trends.ipynb)
 > Where In this project, I will analyze local and global temperature data and compare the temperature trends where
@@ -32,6 +32,6 @@ using Python. Then, create a [presentation with explanatory plots](https://githu
 
 # Terms of Use
 
-These folders are intended to showcast my work on the `Data Analyst Nanodegree Program`.</br>
-`Data is for educational perpuses only`, copying and resubmitting the same code to udacity is condisered plagiarism,</br>
+These folders are intended to show cast my work on the `Data Analyst Nanodegree Program`.</br>
+`Data is for educational purposes only`, copying and resubmitting the same code to Udacity is considered plagiarism, </br>
 and will reduces a student’s chances of success. [Note on plagiarism](https://udacity.zendesk.com/hc/en-us/articles/360001436452-Note-on-plagiarism)
