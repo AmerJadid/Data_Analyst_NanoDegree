@@ -3,7 +3,7 @@
 ## by Amer Jadid
 
 
-## Dataset
+## [Dataset](https://docs.google.com/spreadsheets/u/0/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit?usp=sharing)
 
 >This data set contains 113,937 loans with 81 variables on each loan, including loan amount,
 borrower rate (or interest rate), current loan status, borrower income, and many others.
@@ -11,7 +11,7 @@ The data can be found in Udacity's amazon S3 Bucket under this link: https://s3.
 This data dictionary that explains the variables is under this link: https://www.google.com/url?q=https://docs.google.com/spreadsheet/ccc?key%3D0AllIqIyvWZdadDd5NTlqZ1pBMHlsUjdrOTZHaVBuSlE%26usp%3Dsharing&sa=D&ust=1588750841252000
 
 
-## Summary of Findings
+## [Summary of Findings](https://github.com/AmerJadid/Data_Analyst_NanoDegree/blob/master/Project_5_Communicate_Data_Findings/exploration_loan_data_from_prosper.ipynb)
 
 > In the exploration, I found that there was a significant relationship between
 the Loan Status and the Borrower Rate (interest rate), also a high association
@@ -36,7 +36,7 @@ loans decreased significantly, reaching almost Zero in the middle of the recessi
 
 
 
-## Key Insights for Presentation
+## [Key Insights for Presentation](https://github.com/AmerJadid/Data_Analyst_NanoDegree/blob/master/Project_5_Communicate_Data_Findings/slide_deck_loan_data_from_prosper.ipynb)
 
 > In this presentation, I focused on the effect of income verifiable,
 if the borrower is a homeowner, credit score, and prosper score on the
@@ -55,4 +55,6 @@ I had explained the effect of credit grade and prosper score on the loan status.
 All of these variables is explained in conjunction with interest rate.
 
 > Finally, a Choropleth Map for High Risk Loans in United Status is plotted
-where I explained how the geolocation of the borrower is affecting the loan outcome.
+where I explained how the geolocation of the borrower is affecting the loan outcome.</br>
+
+Link to [data](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
