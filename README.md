@@ -29,3 +29,9 @@ Showcase my wrangling efforts through analyses and visualizations.
 analysis and visualizations to tell a story with data.
 > For this project I chose Prosper Loan Data, where I perform an exploratory data analysis
 using Python. Then, create a presentation with explanatory plots that conveys my findings.
+
+# Terms of Use
+
+This folders are intended to showcast my work on the `Data Analyst Nanodegree Program`.
+Data is for educational perpuses only, copying and resubmitting the same code to udacity is condisered plagiarism.
+[Note on plagiarism](https://udacity.zendesk.com/hc/en-us/articles/360001436452-Note-on-plagiarism)
